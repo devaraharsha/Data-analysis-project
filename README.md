@@ -79,7 +79,7 @@ Predictive analytics and forecasting
 📄 License
 This project is licensed under the MIT License.
 
-Let me know if you'd like this formatted for GitHub or another platform!
+
 
 
 
